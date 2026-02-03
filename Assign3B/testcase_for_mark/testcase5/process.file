@@ -1,4 +1,0 @@
-ProcessNum  3
-pidnum:12, arrival_time:20, execution_time:300
-pidnum:15, arrival_time:60, execution_time:300
-pidnum:5, arrival_time:20, execution_time:400
